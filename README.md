@@ -12,7 +12,6 @@ mkdir analisisdata
 cd analisisdata/dashboard
 pipenv install
 pipenv shell
-pip install -r requirements.txt
 ```
 ## Run streamlit app
 ```
