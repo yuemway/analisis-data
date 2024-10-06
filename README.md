@@ -2,7 +2,8 @@
 
 ## Setup Environment - Anaconda
 ```
-conda create
+conda create --name main-dscd
+conda activate main-dscd
 ```
 
 ## Setup Environment - Shell/Terminal
